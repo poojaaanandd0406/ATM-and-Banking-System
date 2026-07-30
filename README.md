@@ -125,7 +125,7 @@ a new system or to document an existing process. Sequence diagrams are sometimes
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
-
+<img width="717" height="700" alt="image" src="https://github.com/user-attachments/assets/7b2f07e2-cec1-4190-854e-5e5427ea2ab5" />
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
 Represent the details of UML use cases.
